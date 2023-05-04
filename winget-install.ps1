@@ -17,7 +17,10 @@ winget install Sinew.Enpass -l D:\Programs\Enpass --accept-package-agreements
 winget install OpenJS.NodeJS.LTS -l D:\Programs\NodeJS\LTS --accept-package-agreements
 winget install voidtools.Everything -l D:\Programs\Everything --accept-package-agreements
 winget install File-New-Project.EarTrumpet -l D:\Programs\EarTrumpet --accept-package-agreements
-
+winget install XPDLPKWG9SW2WD -l D:\Programs\Adobe\Cloud --accept-package-agreements
+winget install Anaconda.Anaconda3 -l D:\Programs\Anaconda3 --accept-package-agreements
+winget install Tencent.EDU -l D:\Programs\Tencent\EDU --accept-package-agreements
+winget install Alibaba.Yuque -l D:\Programs\Alibaba\Yuque --accept-package-agreements
 
 
 # 以下软件安装需要代理翻墙
