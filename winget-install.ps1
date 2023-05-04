@@ -21,6 +21,8 @@ winget install XPDLPKWG9SW2WD -l D:\Programs\Adobe\Cloud --accept-package-agreem
 winget install Anaconda.Anaconda3 -l D:\Programs\Anaconda3 --accept-package-agreements
 winget install Tencent.EDU -l D:\Programs\Tencent\EDU --accept-package-agreements
 winget install Alibaba.Yuque -l D:\Programs\Alibaba\Yuque --accept-package-agreements
+winget install VMware.WorkstationPro -l D:\Programs\VMware\WorkstationPro --accept-package-agreements
+winget install Xmind.Xmind -l D:\Programs\Xmind --accept-package-agreements
 
 
 # 以下软件安装需要代理翻墙
