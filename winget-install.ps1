@@ -26,13 +26,9 @@ winget install Alibaba.Yuque -l D:\Programs\Alibaba\Yuque --accept-package-agree
 # 以下软件安装需要代理翻墙
 proxychains winget install calibre.calibre -l D:\Programs\Calibre --accept-package-agreements
 proxychains winget install Notepad++.Notepad++ -l D:\Programs\Notepad --accept-package-agreements
-
-
-
-# 以下无法安装（连接不到服务器）
-winget install Initex.Proxifier -l D:\Programs\Proxifier --accept-package-agreements
-winget install QuestSoft.QTranslate -l D:\Programs\QTranslate --accept-package-agreements
-winget install TradingView.TradingViewDesktop -l D:\Programs\TradingView --accept-package-agreements
+proxychains winget install QuestSoft.QTranslate -l D:\Programs\QTranslate --accept-package-agreements
+proxychains winget install Initex.Proxifier -l D:\Programs\Proxifier --accept-package-agreements
+proxychains winget install TradingView.TradingViewDesktop -l D:\Programs\TradingView --accept-package-agreements
 
 
 
