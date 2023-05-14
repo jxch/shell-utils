@@ -26,6 +26,7 @@ winget install Xmind.Xmind -l D:\Programs\Xmind --accept-package-agreements
 winget install Thunder.Thunder -l D:\Programs\Thunder --accept-package-agreements
 winget install Postman.Postman -l D:\Programs\Postman --accept-package-agreements
 winget install tickstep.cloudpan189-go -l D:\Programs\cloudpan189 --accept-package-agreements
+winget install Cloudflare.Warp -l D:\Programs\Cloudflare\Warp --accept-package-agreements
 
 # 以下软件安装需要代理翻墙
 proxychains winget install calibre.calibre -l D:\Programs\Calibre --accept-package-agreements
