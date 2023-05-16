@@ -29,6 +29,7 @@ winget install tickstep.cloudpan189-go -l D:\Programs\cloudpan189 --accept-packa
 winget install Cloudflare.Warp -l D:\Programs\Cloudflare\Warp --accept-package-agreements
 winget install RubyInstallerTeam.RubyWithDevKit.3.2 -l D:\Programs\Ruby --accept-package-agreements
 winget install TorProject.TorBrowser -l D:\Programs\TorBrowser --accept-package-agreements
+winget install Rainmeter.Rainmeter -l D:\Programs\Rainmeter --accept-package-agreements
 
 
 # 以下软件安装需要代理翻墙
