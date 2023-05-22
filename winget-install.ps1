@@ -30,6 +30,9 @@ winget install Cloudflare.Warp -l D:\Programs\Cloudflare\Warp --accept-package-a
 winget install RubyInstallerTeam.RubyWithDevKit.3.2 -l D:\Programs\Ruby --accept-package-agreements
 winget install TorProject.TorBrowser -l D:\Programs\TorBrowser --accept-package-agreements
 winget install Rainmeter.Rainmeter -l D:\Programs\Rainmeter --accept-package-agreements
+winget install GnuCash.GnuCash -l D:\Programs\GnuCash --accept-package-agreements
+winget install Gyan.FFmpeg -l D:\Programs\Gyan\FFmpeg --accept-package-agreements
+winget install ScooterSoftware.BeyondCompare4 -l D:\Programs\BeyondCompare4 --accept-package-agreements
 
 
 # 以下软件安装需要代理翻墙
@@ -40,6 +43,9 @@ proxychains winget install Initex.Proxifier -l D:\Programs\Proxifier --accept-pa
 proxychains winget install TradingView.TradingViewDesktop -l D:\Programs\TradingView --accept-package-agreements
 
 
+
+###
+# https://github.com/nilaoda/N_m3u8DL-CLI/releases
 
 
 
