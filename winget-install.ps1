@@ -33,6 +33,9 @@ winget install Rainmeter.Rainmeter -l D:\Programs\Rainmeter --accept-package-agr
 winget install GnuCash.GnuCash -l D:\Programs\GnuCash --accept-package-agreements
 winget install Gyan.FFmpeg -l D:\Programs\Gyan\FFmpeg --accept-package-agreements
 winget install ScooterSoftware.BeyondCompare4 -l D:\Programs\BeyondCompare4 --accept-package-agreements
+winget install VideoLAN.VLC -l D:\Programs\VideoLAN\VLC --accept-package-agreements
+winget install Telegram.TelegramDesktop -l D:\Programs\Telegram --accept-package-agreements
+winget install Baidu.BaiduNetdisk -l D:\Programs\Baidu\BaiduNetdisk --accept-package-agreements
 
 
 # 以下软件安装需要代理翻墙
@@ -41,6 +44,7 @@ proxychains winget install Notepad++.Notepad++ -l D:\Programs\Notepad --accept-p
 proxychains winget install QuestSoft.QTranslate -l D:\Programs\QTranslate --accept-package-agreements
 proxychains winget install Initex.Proxifier -l D:\Programs\Proxifier --accept-package-agreements
 proxychains winget install TradingView.TradingViewDesktop -l D:\Programs\TradingView --accept-package-agreements
+proxychains winget install qjfoidnh.BaiduPCS-Go -l D:\Programs\Baidu\BaiduPCS-Go --accept-package-agreements
 
 
 
