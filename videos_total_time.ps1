@@ -10,17 +10,20 @@ $videos = Get-ChildItem -Path $dirPath -Recurse -Include *.mp4,*.avi,*.mkv,*.mov
 
 # 初始化总时长为 0
 $totalDuration = 0
+$totalVideos = $videos.Count
 
 # 记录当前位置
 $cursorLeft = [Console]::CursorLeft
 $cursorTop = [Console]::CursorTop
 
+$i = 1
 # 遍历所有视频文件
 foreach ($video in $videos) {
 	# 不断刷新着显示正在扫描的视频
-	Write-Host $video.FullName  -NoNewline
+	Write-Host "[${i}/${totalVideos}] -> " $video.FullName  -NoNewline
 	Write-Host -NoNewline (" " * [Console]::CursorLeft)
 	[Console]::SetCursorPosition($cursorLeft, $cursorTop)
+	$i = $i + 1
 
     # 使用 ffprobe 获取视频时长
     $duration = & ffprobe.exe -i $video.FullName -show_entries format=duration -v quiet -of csv="p=0"
