@@ -36,7 +36,8 @@ winget install ScooterSoftware.BeyondCompare4 -l D:\Programs\BeyondCompare4 --ac
 winget install VideoLAN.VLC -l D:\Programs\VideoLAN\VLC --accept-package-agreements
 winget install Telegram.TelegramDesktop -l D:\Programs\Telegram --accept-package-agreements
 winget install Baidu.BaiduNetdisk -l D:\Programs\Baidu\BaiduNetdisk --accept-package-agreements
-
+winget install AnyTXT.AnyTXTSearcher -l D:\Programs\AnyTXT --accept-package-agreements
+winget install QL-Win.QuickLook -l D:\Programs\QuickLook --accept-package-agreements
 
 # 以下软件安装需要代理翻墙
 proxychains winget install calibre.calibre -l D:\Programs\Calibre --accept-package-agreements
@@ -50,9 +51,11 @@ proxychains winget install qjfoidnh.BaiduPCS-Go -l D:\Programs\Baidu\BaiduPCS-Go
 
 ###
 # https://github.com/nilaoda/N_m3u8DL-CLI/releases
+# https://github.com/leiurayer/downkyi/releases
 
 
-
+###
+# http://www.wjjsoft.com/download.html
 
 
 
