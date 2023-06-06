@@ -57,6 +57,7 @@ winget install Telegram.TelegramDesktop -l D:\Programs\Telegram --accept-package
 winget install Baidu.BaiduNetdisk -l D:\Programs\Baidu\BaiduNetdisk --accept-package-agreements
 winget install AnyTXT.AnyTXTSearcher -l D:\Programs\AnyTXT --accept-package-agreements
 winget install QL-Win.QuickLook -l D:\Programs\QuickLook --accept-package-agreements
+winget install RaspberryPiFoundation.RaspberryPiImager -l D:\Programs\RaspberryPiImager --accept-package-agreements
 
 # 以下软件安装需要代理翻墙
 # C:\Program Files\Calibre2
@@ -76,6 +77,7 @@ proxychains winget install qjfoidnh.BaiduPCS-Go -l D:\Programs\Baidu\BaiduPCS-Go
 
 ###
 # http://www.wjjsoft.com/download.html
+# https://www.lanzouj.com/i8vjkoh
 
 
 
