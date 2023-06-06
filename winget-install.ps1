@@ -58,6 +58,7 @@ winget install Baidu.BaiduNetdisk -l D:\Programs\Baidu\BaiduNetdisk --accept-pac
 winget install AnyTXT.AnyTXTSearcher -l D:\Programs\AnyTXT --accept-package-agreements
 winget install QL-Win.QuickLook -l D:\Programs\QuickLook --accept-package-agreements
 winget install RaspberryPiFoundation.RaspberryPiImager -l D:\Programs\RaspberryPiImager --accept-package-agreements
+winget install Axosoft.GitKraken -l D:\Programs\GitKraken --accept-package-agreements
 
 # 以下软件安装需要代理翻墙
 # C:\Program Files\Calibre2
