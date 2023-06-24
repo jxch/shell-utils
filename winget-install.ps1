@@ -30,6 +30,8 @@ winget install tickstep.cloudpan189-go --accept-package-agreements
 winget install Baidu.BaiduNetdisk --accept-package-agreements
 winget install Ditto.Ditto --accept-package-agreements
 winget install DigitalScholar.Zotero --accept-package-agreements
+winget install XP8K1GHCB0F1R2 --accept-package-agreements
+winget install Microsoft.Skype --accept-package-agreements
 
 winget install Gyan.FFmpeg --accept-package-agreements
 winget install UderzoSoftware.SpaceSniffer --accept-package-agreements
@@ -51,8 +53,10 @@ proxychains winget install ChidiWilliams.Buzz --accept-package-agreements
 proxychains winget install TradingView.TradingViewDesktop --accept-package-agreements
 
 ###
+# https://airtest.netease.com/changelog.html
 # https://otp.landian.vip/zh-cn/download.html
 # https://github.com/nilaoda/N_m3u8DL-CLI/releases
 # https://github.com/leiurayer/downkyi/releases
 # https://www.xshell.com/zh/xshell-download/
-
+# https://www.oracle.com/database/sqldeveloper/technologies/download/
+# https://gpt4all.io/index.html
