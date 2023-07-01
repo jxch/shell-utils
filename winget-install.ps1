@@ -15,7 +15,7 @@ winget install voidtools.Everything --accept-package-agreements
 winget install JetBrains.Toolbox --accept-package-agreements
 winget install XPDLPKWG9SW2WD --accept-package-agreements
 winget install Anaconda.Anaconda3 --accept-package-agreements
-winget install OpenJS.NodeJS.LTS --accept-package-agreements
+winget install CoreyButler.NVMforWindows --accept-package-agreements
 winget install Git.Git --accept-package-agreements
 winget install Axosoft.GitKraken --accept-package-agreements
 winget install SublimeHQ.SublimeText.4 --accept-package-agreements
@@ -32,6 +32,7 @@ winget install Ditto.Ditto --accept-package-agreements
 winget install DigitalScholar.Zotero --accept-package-agreements
 winget install XP8K1GHCB0F1R2 --accept-package-agreements
 winget install Microsoft.Skype --accept-package-agreements
+winget install TrackerSoftware.PDF-XChangeEditor --accept-package-agreements
 
 winget install Gyan.FFmpeg --accept-package-agreements
 winget install UderzoSoftware.SpaceSniffer --accept-package-agreements
@@ -60,3 +61,4 @@ proxychains winget install TradingView.TradingViewDesktop --accept-package-agree
 # https://www.xshell.com/zh/xshell-download/
 # https://www.oracle.com/database/sqldeveloper/technologies/download/
 # https://gpt4all.io/index.html
+# https://github.com/AnyListen/tianruoocr/releases
